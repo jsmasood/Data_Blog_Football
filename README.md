@@ -9,7 +9,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 
 
-1. Introduction
+##### 1. Introduction
 
 This data blog has been written for the Udacity Data Science nanodegree program.
 
@@ -17,12 +17,14 @@ As a fan of football (what some might also call soccer) I was interested in doin
 
 The blog is available online at https://www.kaggle.com/junaidsadiqmasood/exploring-home-advantage-in-football
 
-2. Data Source
+
+##### 2. Data Source
 
 In order to probe this question I used data from the leagues in eleven European countries, covering eight seasons (2012-2016).
 The data is publically available at https://www.kaggle.com/hugomathien/soccer
 
-3. Libraries
+
+##### 3. Libraries
 
 I used the following libraries for this project.
 
