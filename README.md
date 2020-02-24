@@ -28,9 +28,9 @@ The data is publically available at https://www.kaggle.com/hugomathien/soccer
 
 I used the following libraries for this project.
 
-SQLite3 - To read the data
-Pandas & Numpy - For data analysis
-Matplotlib & Seaborn - For basic charts
-Geopandas & Descartes - For managing geodata needed for European map
-IO - For managing input/output streams for interactive map
-Bokeh - For creating interactive map of Europe
+*SQLite3 - To read the data
+*Pandas & Numpy - For data analysis
+*Matplotlib & Seaborn - For basic charts
+*Geopandas & Descartes - For managing geodata needed for European map
+*IO - For managing input/output streams for interactive map
+*Bokeh - For creating interactive map of Europe
