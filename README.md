@@ -4,10 +4,10 @@ A data blog I wrote using Python to analyze football data.
 
 ### Contents:
 
-#### 1. [Introduction] (#introduction) 
-#### 2. Data Source
-#### 3. Libraries
-#### 4. Main Findings
+#### * Introduction
+#### * Data Source
+#### * Libraries
+#### * Main Findings
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -27,9 +27,12 @@ In order to probe this question I used data from the leagues in eleven European 
 The data is publically available at https://www.kaggle.com/hugomathien/soccer
 
 
-##### 3. Libraries
+##### 3. Technologies
 
-I used the following libraries for this project.
+Project is created with:
+* Python version: 3.6
+
+I also used the following libraries for this project.
 
 * SQLite3 - To read the data
 * Pandas & Numpy - For data analysis
@@ -40,4 +43,9 @@ I used the following libraries for this project.
 
 ##### 4. Main Findings
 
-The home team is twice as likely to win 
+* The home team is twice as likely to win as an away team.
+* The percentage of home teams winning games has fallen slightly across 8 seasons.
+* There is no geographic pattern to home team advantage across Europe.
+* On average, the top 2 teams in the English Premier League have the similar away records and the title goes to the team with the better home form.
+* The winner on average gets 
+* Conversely away form is crucial for teams at the bottom, and a couple of good away results can be the difference between safety and relagation.
