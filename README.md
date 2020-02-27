@@ -2,11 +2,17 @@
 
 A data blog I wrote using Python to analyze football data.
 
+## Table of contents
+* [Introduction](#introduction)
+* [Data Source](#data-source)
+* [Technologies](#Technologies)
+* [Main Findings](#main-findings)
+
 ### Contents:
 
 #### * Introduction
 #### * Data Source
-#### * Libraries
+#### * Technologies
 #### * Main Findings
 
 -----------------------------------------------------------------------------------------------------------------------
