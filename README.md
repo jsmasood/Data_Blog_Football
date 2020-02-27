@@ -1,10 +1,13 @@
-# Data Blog
+# Data Blog - Exploring Home Advantage in Football
+
+A data blog I wrote using Python to analyze football data.
 
 ### Contents:
 
-#### 1. Introduction
+#### 1. [Introduction] (#introduction) 
 #### 2. Data Source
 #### 3. Libraries
+#### 4. Main Findings
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -34,3 +37,7 @@ I used the following libraries for this project.
 * Geopandas & Descartes - For managing geodata needed for European map
 * IO - For managing input/output streams for interactive map
 * Bokeh - For creating interactive map of Europe
+
+##### 4. Main Findings
+
+The home team is twice as likely to win 
