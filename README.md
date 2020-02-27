@@ -12,7 +12,7 @@ A data blog I wrote using Python to analyze football data.
 -----------------------------------------------------------------------------------------------------------------------
 
 
-##### 1. Introduction
+##### Introduction
 
 This data blog has been written for the Udacity Data Science nanodegree program.
 
@@ -21,13 +21,13 @@ As a fan of football (what some might also call soccer) I was interested in doin
 The blog is available online at https://www.kaggle.com/junaidsadiqmasood/exploring-home-advantage-in-football
 
 
-##### 2. Data Source
+##### Data Source
 
 In order to probe this question I used data from the leagues in eleven European countries, covering eight seasons (2012-2016).
 The data is publically available at https://www.kaggle.com/hugomathien/soccer
 
 
-##### 3. Technologies
+##### Technologies
 
 Project is created with:
 * Python version: 3.6
@@ -41,7 +41,7 @@ I also used the following libraries for this project.
 * IO - For managing input/output streams for interactive map
 * Bokeh - For creating interactive map of Europe
 
-##### 4. Main Findings
+##### Main Findings
 
 * The home team is twice as likely to win as an away team.
 * The percentage of home teams winning games has fallen slightly across 8 seasons.
