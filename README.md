@@ -46,5 +46,4 @@ I also used the following libraries for this project.
 * The percentage of home teams winning games has fallen slightly across 8 seasons.
 * There is no geographic pattern to home team advantage across Europe.
 * On average, the top 2 teams in the English Premier League have the similar away records and the title goes to the team with the better home form.
-* The winner on average gets 
 * Conversely away form is crucial for teams at the bottom, and a couple of good away results can be the difference between safety and relagation.
