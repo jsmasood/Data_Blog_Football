@@ -8,13 +8,6 @@ A data blog I wrote using Python to analyze football data.
 * [Technologies](#Technologies)
 * [Main Findings](#main-findings)
 
-### Contents:
-
-#### * Introduction
-#### * Data Source
-#### * Technologies
-#### * Main Findings
-
 -----------------------------------------------------------------------------------------------------------------------
 
 
